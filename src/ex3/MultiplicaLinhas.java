@@ -1,5 +1,9 @@
 package ex3;
 
+/**
+ * @author Luiz A S Silveira
+ */
+
 import java.util.concurrent.Callable;
 
 class MultiplicaLinhas implements Callable<Integer> {

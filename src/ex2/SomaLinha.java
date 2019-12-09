@@ -1,5 +1,6 @@
 package ex2;
 
+
 import java.util.concurrent.Callable;
 
 class SomaLinha implements Callable<Integer> {

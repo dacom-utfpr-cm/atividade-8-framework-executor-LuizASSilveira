@@ -1,5 +1,9 @@
 package ex5;
 
+/**
+ * @author Luiz A S Silveira
+ */
+
 import java.util.concurrent.Callable;
 
 class Despertador implements Callable {

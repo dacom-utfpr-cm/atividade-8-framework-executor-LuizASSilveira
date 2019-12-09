@@ -11,6 +11,7 @@ import java.util.concurrent.TimeUnit;
  * O programa deve possibilitar especificar o número de threads para resolver o problema.
  * @author Luiz A S Silveira
  */
+
 public class Main {
     public static void main(String[] args) {
         int tamX = 100;

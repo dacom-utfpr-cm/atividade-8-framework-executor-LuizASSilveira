@@ -1,8 +1,12 @@
 package ex1;
-/*
-Faça um programa que localize o maior valor em um vetor. Divida o programa em tarefas que localizam o maior valor em um segmento do
-vetor. O programa deve possibilitar especificar o número de tarefas e o número de threads para resolver o problema.
-@author: Luiz A S Silveira
+/**
+* Faça um programa que localize o maior valor em um vetor. Divida o programa em tarefas que localizam o maior valor em um segmento do
+* vetor. O programa deve possibilitar especificar o número de tarefas e o número de threads para resolver o problema.
+* @author: Luiz A S Silveira
+**/
+
+/**
+ * @author Luiz A S Silveira
 */
 
 import java.util.concurrent.Callable;
